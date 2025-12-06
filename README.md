@@ -77,4 +77,4 @@ Suas contribuições são muito bem-vindas!
 
 ## 📜 Licença
 
-Este projeto está sob a **Licença MIT**. Veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
