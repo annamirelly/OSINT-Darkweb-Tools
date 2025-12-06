@@ -52,16 +52,6 @@ O Telegram é uma plataforma chave na Dark Web para comunicação, grupos e vend
 
 ---
 
-## 🔗 5. Diretórios de Links Onion
-
-Listas e diretórios que ajudam a navegar e descobrir endereços `.onion` ativos.
-
-* **Tor.link:** Um diretório de links onion cuidadosamente selecionados.
-* **DarkwebDaily.live:** Diretório onion atualizado regularmente.
-* **The Hidden Wiki:** Uma lista clássica de sites onion, geralmente mantida pela comunidade.
-
----
-
 ## ✨ Como Contribuir
 
 Este repositório é um projeto em constante evolução. Sinta-se à vontade para:
