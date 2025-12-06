@@ -51,6 +51,17 @@ O Telegram é uma plataforma chave na Dark Web para comunicação, grupos e vend
 | **UniversalSearchBot** | Bot do Telegram para pesquisar vazamentos de dados relacionados a endereços `.onion`. |
 
 ---
+---
+
+## 🔗 5. Diretórios de Links Onion
+
+Listas e diretórios que ajudam a navegar e descobrir endereços `.onion` ativos.
+
+* **Tor.link:** Um diretório de links onion cuidadosamente selecionados.
+* **DarkwebDaily.live:** Diretório onion atualizado regularmente.
+* **The Hidden Wiki:** Uma lista clássica de sites onion, geralmente mantida pela comunidade.
+
+---
 
 ## ✨ Como Contribuir
 
